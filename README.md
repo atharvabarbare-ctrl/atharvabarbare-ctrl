@@ -5,81 +5,84 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, REST APIs and solving real-world problems through clean and efficient code.
+I enjoy building web applications, working with backend logic, and turning ideas into functional real-world projects.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BBA-CA Graduate
-- 🐍 Passionate about Python & Django Development
-- 💻 Building Full Stack Web Applications
-- 🌱 Currently learning Django REST Framework, APIs & Backend Development
-- 🚀 Exploring Cloud & Deployment
-- 💼 Open to Internship Opportunities
+* 🎓 BBA-CA Graduate
+* 🐍 Focused on **Python & Django Development**
+* 💻 Interested in **Backend and Full Stack Web Development**
+* 🌱 Currently learning **Django REST Framework & REST APIs**
+* 🔧 Improving my **Git, GitHub & Deployment** skills
+* 🚀 Building projects to strengthen my development skills
+* 💼 Open to **Python / Django Internship Opportunities**
 
 ---
 
-## 🚀 Currently Working On
+## 🎯 Current Focus
 
-### 🌤 WeatherSphere
-
-A modern weather application built using **Django**, **OpenWeather API**, and **Pexels API**.
-
-✔ Live Weather Data
-
-✔ Dynamic Weather Background
-
-✔ City Images
-
-✔ Responsive UI
-
-✔ Glassmorphism Design
-
----
-
-### 📋 Smart Task Manager
-
-A Full Stack MERN Application.
-
-✔ JWT Authentication
-
-✔ CRUD Operations
-
-✔ MongoDB
-
-✔ Responsive Dashboard
+```python
+atharva = {
+    "focus": "Python & Django Development",
+    "learning": [
+        "Django REST Framework",
+        "REST APIs",
+        "Backend Development",
+        "Deployment"
+    ],
+    "interests": [
+        "Web Development",
+        "Backend Engineering",
+        "Full Stack Development"
+    ],
+    "goal": "Become a skilled Python & Django Developer"
+}
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frameworks
+### 🚀 Frameworks & Technologies
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Database
+### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 🌱 What I'm Learning
+
+* 🔹 Django REST Framework
+* 🔹 REST API Development
+* 🔹 Authentication & Authorization
+* 🔹 Backend Architecture
+* 🔹 Application Deployment
+* 🔹 Writing cleaner and maintainable code
 
 ---
 
@@ -87,15 +90,15 @@ A Full Stack MERN Application.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvabarbare-ctrl&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvabarbare-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvabarbare-ctrl&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvabarbare-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabarbare-ctrl&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabarbare-ctrl&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -117,14 +120,12 @@ A Full Stack MERN Application.
 
 ---
 
-## 💡 Quote
+## 💡 Developer Mindset
 
-> **"Code. Learn. Build. Repeat." 🚀**
+> **"Code. Learn. Build. Improve. Repeat." 🚀**
 
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my GitHub Profile!
-
 </p>
